@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\OPP\OPP\bin\Debug\OPP.exe.config
+C:\Users\user\source\repos\OPP\OPP\bin\Debug\OPP.exe
+C:\Users\user\source\repos\OPP\OPP\bin\Debug\OPP.pdb
+C:\Users\user\source\repos\OPP\OPP\obj\Debug\OPP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OPP\OPP\obj\Debug\OPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\OPP\OPP\obj\Debug\OPP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OPP\OPP\obj\Debug\OPP.exe
+C:\Users\user\source\repos\OPP\OPP\obj\Debug\OPP.pdb
